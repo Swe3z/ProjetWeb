@@ -1,10 +1,10 @@
-
 Ce README est un guide de compréhension de l’énoncé dont vous avez besoin pour réaliser le TP. Voici les règles de base :
 •Il est primordial de réaliser les exercices dans l'ordre .
 •Tout le monde doit avoir un compte Github
 •Les fichiers index.html et readme.txt vous ont été envoyés pour ce TP
 •Mettez-vous par groupe de 3 (vous pouvez être 2, ça marche aussi mais vous aurez plus de boulot)
 •Créer le projet projetWeb contenant le fichier index.html et un fichier README.md et déposé initialement le projet sur le compte GitHub de l’un des membres (membre 1) du groupe. Le fichier README.md va contenir le contenu du fichier readme.txt.
+
 
 
 Comment forker dépos ?
@@ -27,5 +27,22 @@ A cet titre Ajouté le prof aussi à votre travail pour le suivi :
 Compte GitHub de Dr. ZAKARIYA KAMAGATE
 DevSakalia
 zakariya.kamagate@gmail.com
- 
+
+Noms des étudiants :
+
+
+
+• TRAORE KEVIN
+
+
+
+• SILUE EMMANUEL
+
+
+
+• N'GUESSAN SERGE
+
+
+
+Date du jour : 19/11/2025
 
